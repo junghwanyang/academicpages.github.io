@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Communication](https://communication.illinois.edu) and a facult affiliate in the [Cline Center for Advanced Social Research](https://clinecenter.illinois.edu) at the University of Illinois at Urbana-Champaign.
+I am an Assistant Professor in the [Department of Communication](https://communication.illinois.edu) and a faculty affiliate in the [Cline Center for Advanced Social Research](https://clinecenter.illinois.edu) at the University of Illinois at Urbana-Champaign.
 
 I study how media affect their users in this increasingly fragmented, ever more customizable, and socially connected media environment where people can generate their own content and share their views. I am particularly interested in how people select political information according to own interest, how people express their own opinion on conflicting political issues, and how these media behaviors are related to political polarization in society.
 
 I use various statistical and computational methods to understand social media users’ political interests and issue positions. I am leading the Computational Laboratory for Online and Ubiquitous Data (CLOUD) at Illinois.
 
-I founded and lead the Computational Social Science Research Group and took a student leadership role in [Social Media and Democracy Research Group](https://mcrc.journalism.wisc.edu/groups/smad/) at the University of Wisconsin-Madison.
+I founded and lead the Computational Social Science Research Group and took a student leadership role in the [Social Media and Democracy Research Group](https://mcrc.journalism.wisc.edu/groups/smad/) at the University of Wisconsin-Madison before joining the University of Illinois at Urbana-Champaign.
 
 <!-- A data-driven personal website
 ======
@@ -54,7 +54,7 @@ Example: editing a markdown file for a talk
 Contact
 ------
 <p style="line-height:1">
-<span style="font-family:monospace; font-size:9pt;">4092 Lincoln Hall<br>
+<span style="font-family:monospace; font-size:7pt;">4092 Lincoln Hall<br>
 702 S Wright Street<br>
 Urbana, IL 61801<br>
 United States</span>
