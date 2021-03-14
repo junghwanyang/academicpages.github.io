@@ -1,7 +1,7 @@
 ---
 title: 'Algorithmic Bias or Audience Preference? (DRAFT)'
 date: 2021-03-14
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2021/03/blog-post-1/
 tags:
   - research
   - web scraping
