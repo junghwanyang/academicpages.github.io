@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JungHwan Yang / University of Illinois at Urbana-Champaign"
+title                    : ""
 title_separator          : "-"
 name                     : &name "JungHwan Yang"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "JungHwan Yang, Ph.D."
   avatar           : "profile.png"
-  bio              : "Assistant Professor in Political Communication"
+  bio              : "Assistant Professor at the University of Illinois at Urbana-Champaign"
   location         : "Urbana, Illinois"
-  employer         : "University of Illinois at Urbana-Champaign"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bn4ZhN4AAAAJ&hl=en"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5807-0982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
