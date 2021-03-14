@@ -53,8 +53,8 @@ Example: editing a markdown file for a talk
 
 Contact
 ------
-4092 Lincoln Hall
-702 S Wright Street
-Urbana, IL 61801
-United States
+<span style="font-family:monospace; font-size:10pt;">4092 Lincoln Hall<br>
+702 S Wright Street<br>
+Urbana, IL 61801<br>
+United States</span>
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
