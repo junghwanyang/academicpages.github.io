@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "This site is under construction at a very slow pace"
-excerpt: "About me"
+excerpt: "Main"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Communication](https://communication.illinois.edu) at the University of Illinois at Urbana-Champaign.
+I am an Assistant Professor in the [Department of Communication](https://communication.illinois.edu) and a facult affiliate in the [Cline Center for Advanced Social Research](https://clinecenter.illinois.edu) at the University of Illinois at Urbana-Champaign.
 
 I study how media affect their users in this increasingly fragmented, ever more customizable, and socially connected media environment where people can generate their own content and share their views. I am particularly interested in how people select political information according to own interest, how people express their own opinion on conflicting political issues, and how these media behaviors are related to political polarization in society.
 
