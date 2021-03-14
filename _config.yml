@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "J Yang"
+title                    : "JungHwan Yang, Ph.D."
 title_separator          : "-"
 name                     : &name "JungHwan Yang"
 description              : &description "Assistant Professor at the Department of Communication in the University of Illinois at Urbana-Champaign"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "JungHwan Yang, Ph.D."
+  name             : "JungHwan or J"
   avatar           : "image-jyang-1.jpg"
   bio              : "Assistant Professor at the University of Illinois at Urbana-Champaign"
   location         : "Urbana, Illinois"
