@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+fontsize: 12pt
 ---
 
 I am an Assistant Professor in the [Department of Communication](https://communication.illinois.edu) and a faculty affiliate in the [Cline Center for Advanced Social Research](https://clinecenter.illinois.edu) at the University of Illinois at Urbana-Champaign.
