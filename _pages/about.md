@@ -54,8 +54,8 @@ Example: editing a markdown file for a talk
 
 Contact
 ------
-<p style="line-height:1">
-<span style="font-family:monospace; font-size:7pt;">4092 Lincoln Hall<br>
+<p style="line-height:0.9">
+<span style="font-family:monospace; font-size:9pt;">4092 Lincoln Hall<br>
 702 S Wright Street<br>
 Urbana, IL 61801<br>
 United States</span>
