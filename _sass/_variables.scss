@@ -14,8 +14,9 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Garamond, Georgia, Times, serif;
-$sans-serif                 : "Ubuntu", -apple-system, "Trebuchet MS",".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Ubuntu", "Trebuchet MS",".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; /* -apple-system, */
 $monospace                  : "Andale Mono", Monaco, Consolas, Lucida Console, monospace;
+
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -53,8 +54,7 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-/* $body-color                 : #fff; */
-$body-color                 : #red;
+$body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
