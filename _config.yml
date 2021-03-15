@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "JungHwan Yang, Ph.D."
 title_separator          : "-"
 name                     : &name "JungHwan Yang"
-description              : &description "Assistant Professor at the Department of Communication in the University of Illinois at Urbana-Champaign"
+description              : &description "Assistant Professor in the Department of Communication at the University of Illinois at Urbana-Champaign"
 url                      : https://junghwanyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junghwanyang/junghwanyang.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "" # "Your Sidebar Name"
   avatar           : "image-jyang-1.jpg"
-  bio              : "Assistant Professor at the University of Illinois at Urbana-Champaign"
+  bio              : "Assistant Professor in the Department of Communication at the University of Illinois at Urbana-Champaign"
   location         : "Urbana, Illinois"
   employer         : 
   pubmed           : 
